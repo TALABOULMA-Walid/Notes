@@ -1,0 +1,23 @@
+conda create --name mynewenv python=3.4
+(source) activate mynewenv
+(source) deactivate
+conda remove --name mytestenv --all
+
+conda env list
+conda info       # show env infos
+conda list       # list installed packages
+
+*** chanels to download packages ***
+conda config --append channels newchannel
+
+conda search -f seaborn
+conda install seaborn=0.7.1
+conda update seaborn
+conda remove seaborn
+
+conda install -c conda-forge yaml  # install from a specific channel
+
+#create a file named "pinned" in conda-meta directory control packages update
+seaborn 0.7.*
+yaml ==1.7.3
+############
