@@ -1,0 +1,24 @@
+plan :
+Thanks
+
+Introduction
+
+problem statement from survey
+
+background
+memory etc
+simulators
+benchmarks
+
+state of the art:
+from paper survey
+different techniques
+
+
+work:
+evaluating interference cedric + bandwidth
+
+changing task order, identiify stable pack
+
+changing memory access ( profile cache availability )
+

@@ -1,0 +1,41 @@
+git remote set-url origin https://github.com/TALABOULMA-Walid/xxx.git
+git remote -v
+git push -u origin master
+
+HTTPS remote
+----------
+C-learn
+bus-trace-viewer
+DRAM-refresh-test
+DRAMsim
+
+hexdump-learn
+
+
+
+SSH remote
+-----------
+Traces
+python-learn
+ptlsim
+Notes
+pagemap
+ramulator
+marss-logs
+Vistool
+simso
+simso-gui
+DRAMSim2
+marss.dramsim    origin	git://github.com/dramninjasUMD/marss.dramsim.git (fetch)
+marss            origin	git://github.com/avadhpatel/marss.git (fetch)
+DRAMVis          origin	https://github.com/umd-memsys/DRAMVis.git (fetch)
+------------------------------------------------------
+
+
+
+
+
+
+
+wtthesis
+
